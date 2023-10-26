@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "751e1d5977f2802b",
+    "type": "split",
+    "children": [
+      {
+        "id": "96047263078b83d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a499330fddb26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Научная работа/Научная работа. Дневник..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbed8ab719c4c183",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ea58ac8a724a9b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7cc78e25e2ccec48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a48fa2d363e7b6a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18f5bed9d905e13f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a4f4c96e9d33c1ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcb79ed2593309ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b2cea0e3ff294a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_Научная работа/Научная работа. Дневник..md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b37edabd6341efe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_Научная работа/Научная работа. Дневник..md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceaef4ee75a2cf7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "909000f2a0918f06",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_Научная работа/Научная работа. Дневник..md"
+              }
+            }
+          },
+          {
+            "id": "25a5c62b78fe1229",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "16a499330fddb26c",
+  "lastOpenFiles": [
+    "_Научная работа/2021 - Neural-Based Hierarchical Approach for Detailed Dominant Forest Species Classification by Multispectral Satellite Imagery.md",
+    "Вложения/Pasted image 20231026154533.png",
+    "Вложения/Pasted image 20231026154522.png",
+    "Вложения/Pasted image 20231026145900.png",
+    "Вложения/Pasted image 20231026145558.png",
+    "Вложения/Pasted image 20231026144735.png",
+    "_Научная работа/Научная работа. Дневник..md",
+    "Python/Разное.md",
+    "Вложения/Pasted image 20231014170939.png",
+    "Пока не знаю куда поместить/Визуализация данных.md",
+    "_ППП/Доклады.md",
+    "_Научная работа.md",
+    "_Научная работа",
+    "Пока не знаю куда поместить/Форматы данных.md",
+    "Линейная алгебра/Классификация матриц/Псевдообратная матрица.md",
+    "Линейная алгебра/Классификация матриц/Обратная матрица.md",
+    "Функции потерь/Кросс-энтропия.md",
+    "_БММО/Лекция №3. Наибольшая боснованность.md",
+    "_БММО/Лекция №2. Сопряж.-априорн..md",
+    "_БММО/Лекция №1. БП в ТВ.md",
+    "NLP/Векторные представления слов/Векторные представления слов.md",
+    "Инструменты/Poetry.md",
+    "Гражданка/TODO.md",
+    "Гражданка/Праздники СС на Украине.md",
+    "Гражданка/Я буду, Я не буду, Я хочу.md",
+    "Автокодеровщики/U-net.md",
+    "_ПЗАД - MLOps/Занятие №2.md",
+    "_ПЗАД - MLOps/README MLOps.md",
+    "_НБММО/Лекция №1. SVI.md",
+    "_НБММО/Семинар №3. Variational Dropout.md",
+    "_НБММО/Лекция №4. VAE.md",
+    "_НБММО/Лекция №3. Variational Dropout.md",
+    "Вложения/Pasted image 20230930113644.png",
+    "Вложения/Pasted image 20230930113156.png",
+    "Вложения/Pasted image 20230928155321.png",
+    "Вложения/Pasted image 20230928155304.png",
+    "_Английский язык/Реферирование статей",
+    "_Английский язык",
+    "Инструменты",
+    "_ПЗАД - MLOps",
+    "Python/Без названия.canvas"
+  ]
+}
