@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96047263078b83d7",
+        "id": "99d5e01177538bd9",
         "type": "tabs",
         "children": [
           {
-            "id": "16a499330fddb26c",
+            "id": "bcae526b44b719a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Научная работа/Научная работа. Дневник..md",
+                "file": "Читательский дневник/Василий Тёркин.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Научная работа/Научная работа. Дневник..md",
+                "file": "Читательский дневник/Василий Тёркин.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Научная работа/Научная работа. Дневник..md",
+                "file": "Читательский дневник/Василий Тёркин.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Научная работа/Научная работа. Дневник..md"
+                "file": "Читательский дневник/Василий Тёркин.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -156,48 +158,55 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "16a499330fddb26c",
+  "active": "bcae526b44b719a6",
   "lastOpenFiles": [
-    "_Научная работа/2021 - Neural-Based Hierarchical Approach for Detailed Dominant Forest Species Classification by Multispectral Satellite Imagery.md",
-    "Вложения/Pasted image 20231026154533.png",
-    "Вложения/Pasted image 20231026154522.png",
-    "Вложения/Pasted image 20231026145900.png",
-    "Вложения/Pasted image 20231026145558.png",
-    "Вложения/Pasted image 20231026144735.png",
-    "_Научная работа/Научная работа. Дневник..md",
-    "Python/Разное.md",
-    "Вложения/Pasted image 20231014170939.png",
-    "Пока не знаю куда поместить/Визуализация данных.md",
-    "_ППП/Доклады.md",
-    "_Научная работа.md",
-    "_Научная работа",
-    "Пока не знаю куда поместить/Форматы данных.md",
-    "Линейная алгебра/Классификация матриц/Псевдообратная матрица.md",
-    "Линейная алгебра/Классификация матриц/Обратная матрица.md",
-    "Функции потерь/Кросс-энтропия.md",
-    "_БММО/Лекция №3. Наибольшая боснованность.md",
-    "_БММО/Лекция №2. Сопряж.-априорн..md",
-    "_БММО/Лекция №1. БП в ТВ.md",
-    "NLP/Векторные представления слов/Векторные представления слов.md",
-    "Инструменты/Poetry.md",
+    "Читательский дневник/TODO.md",
+    "Читательский дневник/Василий Тёркин.md",
+    "Читательский дневник/_Дневник.md",
     "Гражданка/TODO.md",
-    "Гражданка/Праздники СС на Украине.md",
-    "Гражданка/Я буду, Я не буду, Я хочу.md",
-    "Автокодеровщики/U-net.md",
-    "_ПЗАД - MLOps/Занятие №2.md",
-    "_ПЗАД - MLOps/README MLOps.md",
-    "_НБММО/Лекция №1. SVI.md",
-    "_НБММО/Семинар №3. Variational Dropout.md",
-    "_НБММО/Лекция №4. VAE.md",
-    "_НБММО/Лекция №3. Variational Dropout.md",
-    "Вложения/Pasted image 20230930113644.png",
-    "Вложения/Pasted image 20230930113156.png",
-    "Вложения/Pasted image 20230928155321.png",
-    "Вложения/Pasted image 20230928155304.png",
+    "Читательский дневник",
+    "_MLOps/_Дневник.md",
+    "_NLP (на англ яз)/_Дневник.md",
+    "_NLP (на англ яз)/README.md",
+    "_MLOps/README.md",
+    "_NLP (на англ яз)",
+    "Гражданка/Аргументы против бесплатного.md",
+    "_Научная работа/_Дневник по научной работе.md",
+    "Агрегация чего-либо/Языки.md",
+    "_MLOps/CRISP-DM.md",
+    "Пока не знаю куда поместить/BVD.md",
+    "Агрегация чего-либо/Визуализация данных.md",
+    "Инструменты/Poetry.md",
+    "Агрегация чего-либо",
+    "_MLOps/Семинар №1.md",
+    "_MLOps/Лекция №1.md",
+    "Агрегация чего-либо/Утилиты Linux.md",
+    "Вложения/Pasted image 20240112155557.png",
+    "Агрегация чего-либо/Форматы данных.md",
+    "Вложения/Pasted image 20240110224720.png",
+    "Вложения/Pasted image 20240110224703.png",
+    "Вложения/Pasted image 20240110224629.png",
+    "Вложения/Pasted image 20240110224613.png",
+    "Вложения/Pasted image 20240110224508.png",
+    "Вложения/Pasted image 20240110224456.png",
+    "Вложения/Pasted image 20240110224041.png",
+    "Вложения/Pasted image 20240110223910.png",
+    "Вложения/Pasted image 20240110222640.png",
+    "Без названия.canvas",
+    "_Научная работа 4 курс/MARS.md",
+    "Научная работа 4 курс/TODO.md",
+    "_Научная работа 4 курс/Программные реализации MARS.md",
+    "_Научная работа/2022 - A Survey of Computer Vision Techniques for Forest Characterization and Carbon Monitoring Tasks.md",
+    "Научная работа 4 курс/Вложения",
+    "_Научная работа 4 курс",
+    "_Научная работа/2021 - Object-Based Augmentation for Building Semantic Segmentation Ventura and Santa Rosa Case Study.md",
+    "_Научная работа/2021 - Neural-Based Hierarchical Approach for Detailed Dominant Forest Species Classification by Multispectral Satellite Imagery.md",
+    "Дистанционное зондирование Земли.md",
+    "Poetry",
+    "_Разбор статей",
+    "_Научная работа",
     "_Английский язык/Реферирование статей",
     "_Английский язык",
-    "Инструменты",
-    "_ПЗАД - MLOps",
     "Python/Без названия.canvas"
   ]
 }

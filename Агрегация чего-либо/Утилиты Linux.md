@@ -1,0 +1,2 @@
+* **grep** - находит на вводе строки, отвечающие заданному регулярному выражению, и выводит их. Акроним от «search Globally for lines matching the Regular Expression, and Print them».
+   ![[Pasted image 20240112155557.png]]
