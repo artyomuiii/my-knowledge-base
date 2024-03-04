@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "99d5e01177538bd9",
+        "id": "a35a83facbb18e1e",
         "type": "tabs",
         "children": [
           {
-            "id": "bcae526b44b719a6",
+            "id": "56933e40f6e219cf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Планы/Планы на неделю/Неделя 7.2.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8682e22cd92dc44e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Читательский дневник/Василий Тёркин.md",
+                "file": "__Планы/Деятельности/Интеллектуальный анализ данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2cdba8d231704b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "__Планы/Деятельности/Кардистри.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +111,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Читательский дневник/Василий Тёркин.md",
-                "collapseAll": false,
+                "file": "__Планы/Планы на неделю/Неделя 7.2.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Читательский дневник/Василий Тёркин.md",
+                "file": "__Планы/Планы на неделю/Неделя 7.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Читательский дневник/Василий Тёркин.md"
+                "file": "__Планы/Планы на неделю/Неделя 7.2.md"
               }
             }
           },
@@ -155,58 +181,60 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "random-note:Открыть случайную заметку": false
     }
   },
-  "active": "bcae526b44b719a6",
+  "active": "56933e40f6e219cf",
   "lastOpenFiles": [
-    "Читательский дневник/TODO.md",
+    "__Планы/Деятельности/Кардистри.md",
+    "_Английский язык/ВМК/ДЗ.md",
+    "__Планы/Планы на неделю/Неделя 7.2.md",
+    "__Планы/Деятельности/Интеллектуальный анализ данных.md",
+    "__Планы/Деятельности/Свои дела.md",
+    "__Планы/Деятельности/Балалайка.md",
+    "Инт.md",
+    "_Английский язык/ВМК/Английский язык на ВМК.md",
+    "_Английский язык/ВМК",
+    "__Планы/Деятельности/НВП.md",
+    "__Планы/Деятельности/Повторяющиеся дела.md",
+    "__Планы/Деятельности",
+    "__Планы/Планы на месяц",
+    "__Планы",
+    "Научный с/c ИАД.md",
+    "Научный с",
+    "__Планы на неделю/Шаблон плана на неделю.md",
     "Читательский дневник/Василий Тёркин.md",
-    "Читательский дневник/_Дневник.md",
-    "Гражданка/TODO.md",
-    "Читательский дневник",
-    "_MLOps/_Дневник.md",
+    "Obsidian/Возможности Markdown.md",
+    "_Спецкурсы/(VK) Современный NLP. Большие языковые модели/_Дневник.md",
+    "Для укрепления души.md",
+    "Поэма.md",
+    "Стихи.md",
+    "_Спецкурсы/(VK) Современный NLP. Большие языковые модели/README.md",
+    "_Спецкурсы/(VK) Современный NLP. Большие языковые модели/Лекция №1.md",
+    "Вложения/Pasted image 20220318162504.png",
+    "Obsidian/Горячие клавиши.md",
+    "Вложения/Pasted image 20240304152548.png",
+    "Вложения/Pasted image 20240304152541.png",
+    "Obsidian/Возможности.md",
+    "20220228221915.png",
+    "Вложения/Pasted image 20220228221915.png",
+    "().md",
+    "Obsidian",
+    "Горячие.md",
     "_NLP (на англ яз)/_Дневник.md",
-    "_NLP (на англ яз)/README.md",
-    "_MLOps/README.md",
-    "_NLP (на англ яз)",
-    "Гражданка/Аргументы против бесплатного.md",
-    "_Научная работа/_Дневник по научной работе.md",
-    "Агрегация чего-либо/Языки.md",
-    "_MLOps/CRISP-DM.md",
-    "Пока не знаю куда поместить/BVD.md",
-    "Агрегация чего-либо/Визуализация данных.md",
-    "Инструменты/Poetry.md",
-    "Агрегация чего-либо",
-    "_MLOps/Семинар №1.md",
     "_MLOps/Лекция №1.md",
-    "Агрегация чего-либо/Утилиты Linux.md",
-    "Вложения/Pasted image 20240112155557.png",
-    "Агрегация чего-либо/Форматы данных.md",
-    "Вложения/Pasted image 20240110224720.png",
-    "Вложения/Pasted image 20240110224703.png",
-    "Вложения/Pasted image 20240110224629.png",
-    "Вложения/Pasted image 20240110224613.png",
-    "Вложения/Pasted image 20240110224508.png",
-    "Вложения/Pasted image 20240110224456.png",
-    "Вложения/Pasted image 20240110224041.png",
-    "Вложения/Pasted image 20240110223910.png",
-    "Вложения/Pasted image 20240110222640.png",
-    "Без названия.canvas",
-    "_Научная работа 4 курс/MARS.md",
-    "Научная работа 4 курс/TODO.md",
-    "_Научная работа 4 курс/Программные реализации MARS.md",
-    "_Научная работа/2022 - A Survey of Computer Vision Techniques for Forest Characterization and Carbon Monitoring Tasks.md",
-    "Научная работа 4 курс/Вложения",
-    "_Научная работа 4 курс",
-    "_Научная работа/2021 - Object-Based Augmentation for Building Semantic Segmentation Ventura and Santa Rosa Case Study.md",
-    "_Научная работа/2021 - Neural-Based Hierarchical Approach for Detailed Dominant Forest Species Classification by Multispectral Satellite Imagery.md",
-    "Дистанционное зондирование Земли.md",
-    "Poetry",
-    "_Разбор статей",
-    "_Научная работа",
-    "_Английский язык/Реферирование статей",
+    "Вложения/Recording 20240304134115.webm",
+    "__Планы/Планы на неделю",
+    "Вложения/Pasted image 20240302185228.png",
     "_Английский язык",
+    "_Спецкурсы",
+    "Вложения/Pasted image 20240223235348.png",
+    "Вложения/Pasted image 20240216194140.png",
+    "Вложения/Pasted image 20240216194115.png",
+    "Вложения/Pasted image 20240216193902.png",
+    "Без названия.canvas",
     "Python/Без названия.canvas"
   ]
 }
